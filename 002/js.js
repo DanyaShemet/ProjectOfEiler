@@ -16,9 +16,16 @@ function fib(n) {
     }
     return b;
 }
-
-for (let j = 1; j < 10; j++) {
+let sum = 0;
+for (let j = 1; j < 4000000; j++) {
     listFib.push(fib(j));
+
+}
+for (let i = 1; i < listFib.length; i++) {
+    if(listFib[i] % 2 == 0){
+        sum += listFib[i]
+    }
+
 }
 
-console.log(listFib)
+console.log(listFib , sum)
