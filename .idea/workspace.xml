@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f945dad-8bdc-4d40-abf0-64234e6e0276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/010/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/001/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/002/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/002/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/003/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/003/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/004/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/004/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/005/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/005/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/008/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/008/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/009/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/009/js.js" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,21 +31,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Learning\ProjectOfEiler" />
       <recent name="E:\StudyAlong\Javascript\2019\Разное\EilerProject" />
+      <recent name="C:\Learning\ProjectOfEiler" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.js.js (5)">
-    <configuration name="js.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/006/js.js" working-dir="$PROJECT_DIR$/006">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.js.js (2)">
+    <configuration name="js.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/004/js.js" working-dir="$PROJECT_DIR$/004">
       <method v="2" />
     </configuration>
-    <configuration name="js.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/003/js.js" working-dir="$PROJECT_DIR$/003">
-      <method v="2" />
-    </configuration>
-    <configuration name="js.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/007/js.js" working-dir="$PROJECT_DIR$/007">
+    <configuration name="js.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/001/js.js" working-dir="$PROJECT_DIR$/001">
       <method v="2" />
     </configuration>
     <configuration name="js.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/002/js.js" working-dir="$PROJECT_DIR$/002">
@@ -50,30 +64,21 @@
     <configuration name="js.js (5)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/008/js.js" working-dir="$PROJECT_DIR$/008">
       <method v="2" />
     </configuration>
-    <configuration name="js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4 - palindrom/js.js" working-dir="$PROJECT_DIR$/4 - palindrom">
+    <configuration name="js.js (6)" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/009/js.js" working-dir="$PROJECT_DIR$/009">
+      <method v="2" />
+    </configuration>
+    <configuration name="js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/006/js.js" working-dir="$PROJECT_DIR$/006">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.js.js (5)" />
-        <item itemvalue="Node.js.js.js (3)" />
         <item itemvalue="Node.js.js.js (2)" />
         <item itemvalue="Node.js.js.js (4)" />
         <item itemvalue="Node.js.js.js (1)" />
+        <item itemvalue="Node.js.js.js" />
+        <item itemvalue="Node.js.js.js (5)" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -90,11 +95,27 @@
       <workItem from="1575902256993" duration="2170000" />
       <workItem from="1575907578311" duration="4463000" />
       <workItem from="1575915015135" duration="722000" />
+      <workItem from="1575924506039" duration="7928000" />
+      <workItem from="1575970421134" duration="2640000" />
+      <workItem from="1576004508257" duration="1870000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575829800206">
@@ -105,30 +126,30 @@
       <screen x="0" y="-1050" width="1536" height="834" />
     </state>
     <state x="549" y="-879" key="FileChooserDialogImpl/0.0.1536.834/0.-1050.1536.834@0.-1050.1536.834" timestamp="1575899675271" />
-    <state width="1515" height="222" key="GridCell.Tab.0.bottom" timestamp="1575915760826">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1575923717074">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1515" height="222" key="GridCell.Tab.0.bottom/0.0.1536.834/0.-1050.1536.834@0.-1050.1536.834" timestamp="1575912021176" />
     <state width="1515" height="222" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1575915760826" />
-    <state width="1899" height="352" key="GridCell.Tab.0.bottom/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1575835642801" />
-    <state width="1515" height="222" key="GridCell.Tab.0.center" timestamp="1575915760826">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1575923717074" />
+    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1575923717073">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1515" height="222" key="GridCell.Tab.0.center/0.0.1536.834/0.-1050.1536.834@0.-1050.1536.834" timestamp="1575912021176" />
     <state width="1515" height="222" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1575915760826" />
-    <state width="1899" height="352" key="GridCell.Tab.0.center/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1575835642800" />
-    <state width="1515" height="222" key="GridCell.Tab.0.left" timestamp="1575915760826">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1899" height="285" key="GridCell.Tab.0.center/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1575923717073" />
+    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1575923717073">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1515" height="222" key="GridCell.Tab.0.left/0.0.1536.834/0.-1050.1536.834@0.-1050.1536.834" timestamp="1575912021176" />
     <state width="1515" height="222" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1575915760826" />
-    <state width="1899" height="352" key="GridCell.Tab.0.left/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1575835642800" />
-    <state width="1515" height="222" key="GridCell.Tab.0.right" timestamp="1575915760826">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state width="1899" height="285" key="GridCell.Tab.0.left/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1575923717073" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1575923717074">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1515" height="222" key="GridCell.Tab.0.right/0.0.1536.834/0.-1050.1536.834@0.-1050.1536.834" timestamp="1575912021176" />
     <state width="1515" height="222" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1575915760826" />
-    <state width="1899" height="352" key="GridCell.Tab.0.right/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1575835642801" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1575923717074" />
     <state width="1515" height="265" key="GridCell.Tab.1.bottom" timestamp="1575912045256">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

@@ -13,7 +13,7 @@ function f(number) {
 			str2 = str2.join(''); // второе число
 
 
-			if (a == str2){
+			if (a === +str2){
 				arrPalindroms.push(a)
 			}
 		}

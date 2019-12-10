@@ -6,15 +6,15 @@
 let list = [];
 let count = 0;
 let sum = 0;
-for(let j = 1;j<=1000;j++){
+for(let j = 1;j<=10;j++){
 	count++;
 	list.push(count);
 }
-console.log(list);
+
 for(let i=0;i<list.length-1;i++){
 	if (list[i]%3==0 || list[i]%5==0) {
 		sum += list[i];
 	}
 }
-console.log(sum)
+console.log(`${list} - числа кратные 3 и 5,  ${sum} - сумма`)
 

@@ -1,41 +1,30 @@
-// Наибольшее произведение четырех последовательных цифр в нижеприведенном
-// 1000-значном числе равно 9 × 9 × 8 × 9 = 5832.
-// Найдите наибольшее произведение тринадцати последовательных цифр в данном числе.
+//
+//
+// Тройка Пифагора - три натуральных числа a < b < c, для которых выполняется равенство
+// a^2 + b^2 = c^2
+//
+// Например, 3^2 + 4^2 = 9 + 16 = 25 = 5^2.
+//
+// Существует только одна тройка Пифагора, для которой a + b + c = 1000.
+// Найдите произведение abc.
+function isInteger(num) {
+    return (num ^ 0) === num;
+}
+function f(number) {
+    let suminfor = 0
+    let obj = []
+    for(let i =2;i<=number;i++){
+        for (let j=1;j<=number;j++){
+            suminfor = i**2 + j**2
+            let sqrt = Math.sqrt(suminfor)
+            if(isInteger(sqrt) && j > i && i+j+sqrt === number){
+                obj.push([i , j, sqrt ])
+            }
 
-let arr = [];
-let max = 0;
-let idx = 0;
-
-function makeArray(count, number) { // Создает массив массивов из числа
-    number = String(number).split('')
-    for (let i = 0; i < number.length; i++) {
-        if(i < number.length - count-1) {
-            arr.push([+number[i],+number[i+1],+number[i+2],+number[i+3]]);
         }
     }
-    calcSum(arr)
+    return obj
 }
 
-function calcSum(arr) { // Подсчет произведенного всех массивов в масиве
-    for (let i =0;i<arr.length;i++){
-        let tmp = arr[i].reduce((total, el) => {
-            return total * el
-        });
-        if(max < tmp){
-            max = tmp;
-            tmp = 0;
-            idx = i
-        }
-    }
-    console.log(`${arr[idx]}  === ${max} index : ${idx} from ${arr.length}`)
-    console.log(arr)
-}
-makeArray(4,7316717653933296)
-
-
-
-
-
-
-
+console.log(f(1000))
 
