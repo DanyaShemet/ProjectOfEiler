@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f945dad-8bdc-4d40-abf0-64234e6e0276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/012/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/014/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/007/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/007/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/010/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/010/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/019/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/020/js.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,10 +62,10 @@
     <configuration name="js.js (6)" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/009/js.js" working-dir="$PROJECT_DIR$/009">
       <method v="2" />
     </configuration>
-    <configuration name="js.js (7)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/019/js.js" working-dir="$PROJECT_DIR$/019">
+    <configuration name="js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/012/js.js" working-dir="$PROJECT_DIR$/012">
       <method v="2" />
     </configuration>
-    <configuration name="js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/012/js.js" working-dir="$PROJECT_DIR$/012">
+    <configuration name="js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/020/js.js" working-dir="$PROJECT_DIR$/020">
       <method v="2" />
     </configuration>
     <recent_temporary>
