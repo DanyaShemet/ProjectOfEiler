@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f945dad-8bdc-4d40-abf0-64234e6e0276" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/010/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/012/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/014/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/017/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/019/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/001/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/002/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/004/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/004/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/005/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/005/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/008/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/008/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/009/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/009/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/007/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/007/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/010/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/010/js.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +34,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learning\ProjectOfEiler" />
       <recent name="E:\StudyAlong\Javascript\2019\Разное\EilerProject" />
       <recent name="C:\Learning\ProjectOfEiler" />
     </key>
@@ -51,31 +51,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.js.js (2)">
-    <configuration name="js.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/004/js.js" working-dir="$PROJECT_DIR$/004">
+  <component name="RunManager" selected="Node.js.js.js (7)">
+    <configuration name="js.js (1)" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/014/js.js" working-dir="$PROJECT_DIR$/014">
       <method v="2" />
     </configuration>
-    <configuration name="js.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/001/js.js" working-dir="$PROJECT_DIR$/001">
+    <configuration name="js.js (3)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/010/js.js" working-dir="$PROJECT_DIR$/010">
       <method v="2" />
     </configuration>
-    <configuration name="js.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/002/js.js" working-dir="$PROJECT_DIR$/002">
+    <configuration name="js.js (4)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/017/js.js" working-dir="$PROJECT_DIR$/017">
       <method v="2" />
     </configuration>
-    <configuration name="js.js (5)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/008/js.js" working-dir="$PROJECT_DIR$/008">
+    <configuration name="js.js (5)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/007/js.js" working-dir="$PROJECT_DIR$/007">
       <method v="2" />
     </configuration>
     <configuration name="js.js (6)" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/009/js.js" working-dir="$PROJECT_DIR$/009">
       <method v="2" />
     </configuration>
-    <configuration name="js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/006/js.js" working-dir="$PROJECT_DIR$/006">
+    <configuration name="js.js (7)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/019/js.js" working-dir="$PROJECT_DIR$/019">
+      <method v="2" />
+    </configuration>
+    <configuration name="js.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/012/js.js" working-dir="$PROJECT_DIR$/012">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.js.js (2)" />
+        <item itemvalue="Node.js.js.js (7)" />
         <item itemvalue="Node.js.js.js (4)" />
-        <item itemvalue="Node.js.js.js (1)" />
         <item itemvalue="Node.js.js.js" />
+        <item itemvalue="Node.js.js.js (3)" />
         <item itemvalue="Node.js.js.js (5)" />
       </list>
     </recent_temporary>
@@ -98,6 +101,8 @@
       <workItem from="1575924506039" duration="7928000" />
       <workItem from="1575970421134" duration="2640000" />
       <workItem from="1576004508257" duration="1870000" />
+      <workItem from="1576148454533" duration="728000" />
+      <workItem from="1576149195843" duration="16877000" />
     </task>
     <servers />
   </component>
